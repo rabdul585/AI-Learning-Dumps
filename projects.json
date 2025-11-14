@@ -34,4 +34,74 @@
     "demo": "",
     "path": "text-summarizer"
   }
+  {
+    "name": "Prompt Engineering (Jasonprompt)",
+    "description": "Collection of prompt-engineering examples, prompt templates and notes for working with generative AI models.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "Jasonprompt"
+  },
+  {
+    "name": "Python Challenges",
+    "description": "Small Python practice problems, coding exercises and sample solutions for learning fundamentals and algorithms.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "PythonChal"
+  },
+  {
+    "name": "Streamlit Demos",
+    "description": "Interactive Streamlit apps and demos showcasing web UIs for ML/AI experiments and small data visualizations.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "Streamlit"
+  },
+  {
+    "name": "Flask Web Examples",
+    "description": "Small Flask web application examples demonstrating routing, templates and simple back-end patterns.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "flask"
+  },
+  {
+    "name": "PyAutoGUI Automations",
+    "description": "Desktop automation scripts using PyAutoGUI — useful for GUI automation, RPA proof-of-concepts and task automation.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "pyautogui"
+  },
+  {
+    "name": "Age Calculator (script)",
+    "description": "Simple Python utility to compute age from date of birth — demonstrates basic input handling and date arithmetic.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "age_calculator.py"
+  },
+  {
+    "name": "BMI Calculator (script)",
+    "description": "Lightweight BMI calculator script showing user input, validation and basic health metric computation.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "bmi_app.py"
+  },
+  {
+    "name": "RPA Demo Script",
+    "description": "Automation / RPA demonstration script (rpademo.py) — automates repetitive desktop tasks for demo purposes.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "rpademo.py"
+  },
+  {
+    "name": "Intro Notebook & Worksheets",
+    "description": "Introductory Python notebook and worksheets (Week 1) for beginner-level exercises and guided learning.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "Week 1_Introduction_to_Python_Worksheet (2) (2).ipynb"
+  },
+  {
+    "name": "Prompts & Notes",
+    "description": "Markdown notes and prompts (prompt.md and README.md) with quick references and examples.",
+    "screenshot": "demo.png",
+    "demo": "",
+    "path": "prompt.md"
+  }
 ]
