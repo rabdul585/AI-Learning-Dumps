@@ -1,0 +1,87 @@
+{
+  "version": "1.1",
+  "video_style": "funny_toddler_advice",
+  "language": "Tamil",
+  "video_settings": {
+    "resolution": "1080x1920",
+    "aspect_ratio": "9:16",
+    "subtitles": true,
+    "total_duration": "45-55 seconds",
+    "instruction": "Do NOT shorten or trim any dialogues. Ensure the full script is included completely in the final video without cutting."
+  },
+  "character": {
+    "age": 1,
+    "type": "cute_toddler",
+    "tone": "funny, playful",
+    "appearance": "colorful baby dress",
+    "expressions": ["face_frowning", "cute_angry", "playful_warning", "laughing"]
+  },
+  "scene": {
+    "location": "indoor_home_setting",
+    "lighting": "soft natural light",
+    "background": "living room with toys",
+    "camera_style": "closeup and mid-shot alternating",
+    "movement": "smooth minimal motion"
+  },
+  "timeline": [
+    {
+      "scene_id": 1,
+      "start_time": "0s",
+      "end_time": "8s",
+      "expression": "face_frowning",
+      "action": "toddler shakes head quickly with tiny frown",
+      "text": "Mobile Phone அதிகம் பயன்படுத்தாதீங்க!",
+      "audio_tone": "cute scolding"
+    },
+    {
+      "scene_id": 2,
+      "start_time": "8s",
+      "end_time": "18s",
+      "expression": "cute_angry",
+      "action": "toddler points finger in a funny way",
+      "text": "மொபைல்… மொபைல்… அப்படின்னு உட்கார்ந்துட்டே இருக்காதீங்க!",
+      "audio_tone": "mock frustration"
+    },
+    {
+      "scene_id": 3,
+      "start_time": "18s",
+      "end_time": "28s",
+      "expression": "cute_angry",
+      "action": "toddler waves both hands dramatically",
+      "text": "என்ன மாதிரி கொஞ்சம் விளையாடுங்க! ரொம்ப பார்த்தா கண் சிவந்து மிருகம் மாதிரி ஆகிடுவீங்க! 😄",
+      "audio_tone": "teasing and playful"
+    },
+    {
+      "scene_id": 4,
+      "start_time": "28s",
+      "end_time": "38s",
+      "expression": "playful_warning",
+      "action": "toddler moves forward pretending to threaten",
+      "text": "இது எல்லாம் கேக்கலன்னா… நான் வந்து செருப்பால அடிக்க மாட்டேன்;",
+      "audio_tone": "fake serious"
+    },
+    {
+      "scene_id": 5,
+      "start_time": "38s",
+      "end_time": "48s",
+      "expression": "laughing",
+      "action": "toddler grabs a chocolate and runs away laughing",
+      "text": "சாக்லேட் எடுத்துப் போய் விடுவேன்! 😂😂",
+      "audio_tone": "cute mischievous laugh"
+    }
+  ],
+  "ending": {
+    "start_time": "48s",
+    "end_time": "55s",
+    "type": "cute_outro",
+    "expression": "smiling",
+    "action": "baby claps hands",
+    "text": "கேட்டுட்டீங்களா? நல்ல பசங்கதானே! 😄"
+  },
+  "rendering_notes": {
+    "maintain_full_length": true,
+    "do_not_trim_dialogues": true,
+    "ensure_clear_lip_sync": true,
+    "keep toddler centered in frame": true
+  }
+}
