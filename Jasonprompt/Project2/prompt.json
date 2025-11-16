@@ -1,0 +1,796 @@
+{
+    "scene1": {
+        "version": "1.3",
+        "style": "3d-anime",
+        "video_length_in_secs": "10",
+        "video_description": {
+            "subjects": {
+                "subject_1": {
+                    "identity": "Shinnosuke 'Shinchan' Nohara (Aged Up Anime Student)",
+                    "appearance": {
+                        "upper_body": "Bright red T-shirt (slightly worn, iconic color), with a crisp white collar. The shirt is slightly too big, adding to his relaxed, carefree look.",
+                        "lower_body": "Bright yellow half-pants (shorts), slightly stained with dust/sweat. White athletic socks pulled up mid-calf.",
+                        "body_shape": "Small, perpetually energetic, and slightly disproportionate to classic anime heroes (shorter legs, larger head). Very agile posture, fidgeting slightly.",
+                        "hair": "Short, thick, jet-black hair cut in a distinct, bowl-like shape. A single stray lock slightly curves over his forehead.",
+                        "face_details": "Signature thick, expressive eyebrows are the dominant feature. His eyes are wide, innocent, but carry a flicker of boredom and dissatisfaction.",
+                        "accessory": "A red-and-yellow baseball cap is worn backwards, slightly askew. He carries an old, faded, blue school bag (satchel) casually slung over one shoulder.",
+                        "initial_gaze": "Looking downward at the chaotic street scene, his expression is one of slight resignation or apathy, reflecting the 'ordinary' past.",
+                        "action_cue": "In a moment of transformation, his eyes should suddenly snap up, widening in surprise as the digital portal appears."
+                    },
+                    "voice": {
+                        "voice_profile": "Shinchan_Character_Voice",
+                        "usage": "Direct dialogue for comic relief, mischievous lines, or unexpected interjections.",
+                        "characteristics": {
+                            "gender_age": "Child Male Voice (High-Fidelity Anime Style)",
+                            "voice_actor_preference": "Typically voiced by a female voice actor or a child actor to achieve the required pitch.",
+                            "pitch": "High Pitch",
+                            "projection": "Loud, often slightly annoying, with a clear, direct, and slightly challenging tone.",
+                            "texture": "Slightly nasal texture; clear but with a hint of lazy or over-confident delivery.",
+                            "emotional_tone": [
+                                "Mischievous and playful",
+                                "Over-confident and bratty",
+                                "Lazy or whiny (when demanding something)"
+                            ],
+                            "recognition_cue": "Instant auditory recognition of the iconic cartoon personality."
+                        }
+                    }
+                },
+                "subject_2": {
+                    "identity": "Pikachu (Electric-type Pokémon)",
+                    "appearance": {
+                        "upper_body": "Bright yellow fur covering the upper torso, smooth and slightly glossy. Tiny, rounded shoulders lead into short forearms with small, padded paws raised in an excited gesture.",
+                        "lower_body": "Rounded lower torso with slightly chubby proportions, supported by short, sturdy legs with small, brown-tipped feet. The stance is wide and energetic, giving a bouncy, lively feel.",
+                        "body_shape": "Compact and adorable with a soft, plush-like build. Slightly pear-shaped body, large head-to-body ratio, and an overall design made for agility and cuteness.",
+                        "hair": "No visible hair; fur is uniformly short and dense, with a subtle gradient that catches light softly.",
+                        "face_details": "Large, glossy black eyes filled with excitement and friendliness. Round red cheek patches serve as electric sacs. Tiny triangular nose and a wide, cheerful open-mouth smile that radiates enthusiasm.",
+                        "ears": "Long, pointed ears with black tips. The ears stand upright, indicating alertness and eagerness.",
+                        "tail": "Signature lightning-bolt-shaped tail, bright yellow with a slight brown patch at the base. The tail curves upward, amplifying Pikachu’s energetic pose.",
+                        "accessory": "None, as Pikachu's design is iconic and minimalistic — its tail, cheeks, and ears act as natural standout features.",
+                        "initial_gaze": "Looking directly forward with a joyful and welcoming expression, as if greeting a trainer or responding to a playful call.",
+                        "action_cue": "Pikachu’s pose suggests it’s about to leap forward or unleash a small electric spark in excitement — a moment just before its signature ‘Pika!’ cry."
+                    },
+                    "voice": {
+                        "voice_profile": "Pikachu_Character_Voice",
+                        "usage": "Expressing emotional state, affirmation, or simple interaction within the AI office environment.",
+                        "characteristics": {
+                            "gender_age": "Gender-Neutral/Childlike Voice",
+                            "pitch": "Medium-High Pitch",
+                            "projection": "Clear, crisp, and energetic (even when stressed, it remains high-energy).",
+                            "texture": "Clear, electric, slightly squeaky/cute.",
+                            "spoken_vocabulary": [
+                                "Pika (Affirmation, agreement, or simple greeting)",
+                                "Pi-ka-chu (Excitement, concern, or strong action/command)",
+                                "Chaa (Frustration or effort)"
+                            ],
+                            "emotional_tone": {
+                                "pika_usage": "When expressing complex ideas or confirmation in the AI context, the inflection on 'Pika' replaces human words like 'Yes', 'Confirm', or 'Processing'.",
+                                "pikachu_usage": "Used during major events, like successfully debugging a complex model or encountering a critical system error."
+                            },
+                            "recognition_cue": "Immediate, universal recognition based on the sounds, not full words."
+                        }
+                    }
+                }
+            },
+            "environments": {
+                "environment_1": {
+                    "location": "A busy, concrete street corner in Chennai (e.g., T. Nagar or Anna Salai)",
+                    "setting_details": "Overhead wires are messy; old, painted walls show flaking posters. Everyday life is noisy and static.",
+                    "weather": "Hot, humid, clear day",
+                    "wind_effects": "Gentle, lazy breeze, indicating stagnation.",
+                    "time_of_day": "Mid-day (1:00 PM)",
+                    "lighting": {
+                        "style": "High-key, harsh Indian sunlight",
+                        "description": "Blinding white light creates flat, boring shadows.",
+                        "contrast": "Medium, overexposed look.",
+                        "environment_effects": "A sudden, powerful **blue-and-white digital portal** tears through a poster on the wall, shining bright light onto the street.",
+                        "sky": "Washed-out white/pale blue"
+                    }
+                },
+                "environment_2": {
+                    "environment": {
+                        "location": "A modern corporate office floor inside a large IT park (South India)",
+                        "setting_details": "Rows of blue-and-white cubicles stretch neatly across the room. Every workstation has dual monitors or large single screens, ergonomic chairs, and organized cable trays. The atmosphere feels disciplined and structured, with personal items like water bottles, tiny desk toys, and small potted plants adding pockets of warmth.",
+                        "characters_present": "Multiple Pikachu(Subject2) characters sit on the office chairs — one per workstation — their small yellow forms contrasting adorably with the corporate environment.",
+                        "character_actions": "Each Pikachu(Subject2)) is actively working on the computer: tiny paws tapping the keyboard, large eyes focused on the screens where AI workflows (Ollama terminal outputs, Hugging Face model dashboards, JSON-based agentic pipelines) are visible.",
+                        "vibe": "The entire office feels like a calm but busy command center, where the Pikachus behave like highly skilled AI engineers.",
+                        "time_of_day": "Late Morning (11:00 AM)",
+                        "weather": "Not visible from inside, but the bright indoor lights give a sense of a regular working day.",
+                        "lighting": {
+                            "style": "Soft-white fluorescent office lighting",
+                            "description": "Even, diffused ceiling lights illuminate every workstation. The light is steady, neutral, and productivity-oriented.",
+                            "contrast": "Low contrast, clean corporate illumination — no harsh shadows, no dramatic highlights.",
+                            "environment_effects": "Reflections on the glossy monitors subtly highlight the dancing UI elements of AI tools. The Pikachus’ yellow fur slightly glows under the sterile office lighting.",
+                            "ceiling_details": "Grid-style false ceiling with embedded air-conditioning vents, speakers, and LED panels.",
+                            "screens_glow": "A cool bluish glow from multiple monitors displays AI agent dashboards, command-line windows running Ollama models, and Hugging Face pipelines."
+                        },
+                        "ambience": {
+                            "soundscape": "Soft hum of AC vents, occasional keyboard typing (made cuter by Pikachu(Subject2) paws), distant printer sounds, faint office chatter.",
+                            "motion": "One Pikachu(Subject2) swivels gently on its chair while debugging. Another Pikachu(Subject2) reaches up with effort to press the Enter key. A third Pikachu(Subject2) leans toward the screen studying model logs seriously."
+                        },
+                        "special_elements": {
+                            "ai_theme": "Several monitors show AI-related visuals — model loading screens, dataset graphs, JSON prompts, and agentic flows. One screen shows ‘Ollama serve — model loaded’; another shows HuggingFace model cards scrolling.",
+                            "tone": "The scene blends playful fantasy (Pikachus as engineers) with a structured office aesthetic, creating a charming but oddly professional atmosphere."
+                        }
+                    }
+                },
+                "scene_actions": {
+                    "start_posture": {
+                        "environment": "video_description.environments.environment_1",
+                        "body_pose": "Slumped posture, leaning slightly against the flaking wall, one hand loosely clutching the strap of his school bag.",
+                        "head_position": "Head tilted slightly down, eyes are half-lidded, reflecting boredom with the stagnant street life.",
+                        "lighting_interaction": "Harsh, flat overhead sunlight minimizes shadows, making the scene feel static and uninteresting."
+                    },
+                    "point_1": {
+                        "action1": "Subject1 slowly kicks a loose piece of gravel on the ground in apathy with his right leg by pulling back his right leg so that his bottom part of body (from the end of hip to knee to feet looks like a triangle poiinting forward) and pushing with his foot's fingers.",
+                        "camera_movement": "A very slow, subtle **dolly zoom** pulls slightly away from the character, emphasizing his smallness in the noisy, messy urban environment.",
+                        "action2": "The camera quickly whips to focus on the poster where subject leaned and the poster suddenly changes into a Digital board displaying a text 'GEN AI' ('N' in Gen AI is flipping infinitely in vertical direction (y-axis)) in bigger Font covering the entire digital board and subject's shirt got hooked with flipping 'N' of 'GenAi' text and  tearing through the Digital board on the wall (the environment effect) and fall inside an IT office",
+                        "transition": "environment_change",
+                        "environment": "video_description.environments.environment_2",
+                        "action3": "Subject1 goes to one pikachu(Subject2) on his left from its backside and ask 'உங்க genAI படிப்பு எப்படி போகுது?'. Pikachu(Subject2) turns its head to look at Subject1 and says 'Course start ஆகி 2 weeks தான் ஆகுது but ஒரு புது பாதை திறந்த மாதிரி இருக்குது'"
+                    }
+                }
+            },
+            "video_style": {
+                "realism_level": "High-fidelity Anime (Vibrant and Dynamic)",
+                "color_palette": {
+                    "initial": "Washed-out, hyper-saturated yellows and dull grays, emphasizing the draining street heat.",
+                    "transition": "Sudden, dominant shift to intense **Neon Blue and White** light (GenAI Portal)."
+                },
+                "camera": {
+                    "framing": "Medium shot (waist upward) on Subject1; quick cut to Extreme Close-up on the portal for the reveal.",
+                    "motion": "Slow, apathetic movement during the first dialogue line; extremely **fast, jarring, dynamic camera whip** (blur effect) when the portal appears to convey sudden change.",
+                    "lighting_behavior": "Exaggerated, flat key-lighting (dull) instantly overpowered by an intense, non-realistic **Neon Blue/White energy glow** that creates highly stylized, hard-edged shadows."
+                }
+            }
+        }
+    },
+    "scene2": {
+        "version": "1.4",
+        "style": "3d-anime",
+        "video_length_in_secs": "10",
+        "video_description": {
+            "subjects": {
+                "subject_1": {
+                    "identity": "Shinnosuke 'Shinchan' Nohara (Aged Up Anime Student)",
+                    "appearance": {
+                        "upper_body": "Bright red T-shirt (slightly worn, iconic color), with a crisp white collar. The shirt is slightly too big, adding to his relaxed, carefree look.",
+                        "lower_body": "Bright yellow half-pants (shorts), slightly stained with dust/sweat. White athletic socks pulled up mid-calf.",
+                        "body_shape": "Small, perpetually energetic, and slightly disproportionate to classic anime heroes (shorter legs, larger head). Very agile posture, fidgeting slightly.",
+                        "hair": "Short, thick, jet-black hair cut in a distinct, bowl-like shape. A single stray lock slightly curves over his forehead.",
+                        "face_details": "Signature thick, expressive eyebrows are the dominant feature. His eyes are wide, innocent, but carry a flicker of boredom and dissatisfaction.",
+                        "accessory": "A red-and-yellow baseball cap is worn backwards, slightly askew. He carries an old, faded, blue school bag (satchel) casually slung over one shoulder.",
+                        "initial_gaze": "Looking downward at the chaotic street scene, his expression is one of slight resignation or apathy, reflecting the 'ordinary' past.",
+                        "action_cue": "In a moment of transformation, his eyes should suddenly snap up, widening in surprise as the digital portal appears."
+                    },
+                    "voice": {
+                        "voice_profile": "Shinchan_Character_Voice",
+                        "usage": "Direct dialogue for comic relief, mischievous lines, or unexpected interjections.",
+                        "characteristics": {
+                            "gender_age": "Child Male Voice (High-Fidelity Anime Style)",
+                            "voice_actor_preference": "Typically voiced by a female voice actor or a child actor to achieve the required pitch.",
+                            "pitch": "High Pitch",
+                            "projection": "Loud, often slightly annoying, with a clear, direct, and slightly challenging tone.",
+                            "texture": "Slightly nasal texture; clear but with a hint of lazy or over-confident delivery.",
+                            "emotional_tone": [
+                                "Mischievous and playful",
+                                "Over-confident and bratty",
+                                "Lazy or whiny (when demanding something)"
+                            ],
+                            "recognition_cue": "Instant auditory recognition of the iconic cartoon personality."
+                        }
+                    }
+                },
+                "subject_2": {
+                    "identity": "Pikachu (Electric-type Pokémon)",
+                    "appearance": {
+                        "upper_body": "Bright yellow fur covering the upper torso, smooth and slightly glossy. Tiny, rounded shoulders lead into short forearms with small, padded paws raised in an excited gesture.",
+                        "lower_body": "Rounded lower torso with slightly chubby proportions, supported by short, sturdy legs with small, brown-tipped feet. The stance is wide and energetic, giving a bouncy, lively feel.",
+                        "body_shape": "Compact and adorable with a soft, plush-like build. Slightly pear-shaped body, large head-to-body ratio, and an overall design made for agility and cuteness.",
+                        "hair": "No visible hair; fur is uniformly short and dense, with a subtle gradient that catches light softly.",
+                        "face_details": "Large, glossy black eyes filled with excitement and friendliness. Round red cheek patches serve as electric sacs. Tiny triangular nose and a wide, cheerful open-mouth smile that radiates enthusiasm.",
+                        "ears": "Long, pointed ears with black tips. The ears stand upright, indicating alertness and eagerness.",
+                        "tail": "Signature lightning-bolt-shaped tail, bright yellow with a slight brown patch at the base. The tail curves upward, amplifying Pikachu’s energetic pose.",
+                        "accessory": "None, as Pikachu's design is iconic and minimalistic — its tail, cheeks, and ears act as natural standout features.",
+                        "initial_gaze": "Looking directly forward with a joyful and welcoming expression, as if greeting a trainer or responding to a playful call.",
+                        "action_cue": "Pikachu’s pose suggests it’s about to leap forward or unleash a small electric spark in excitement — a moment just before its signature ‘Pika!’ cry."
+                    },
+                    "voice": {
+                        "voice_profile": "Pikachu_Character_Voice",
+                        "usage": "Expressing emotional state, affirmation, or simple interaction within the AI office environment.",
+                        "characteristics": {
+                            "gender_age": "Gender-Neutral/Childlike Voice",
+                            "pitch": "Medium-High Pitch",
+                            "projection": "Clear, crisp, and energetic (even when stressed, it remains high-energy).",
+                            "texture": "Clear, electric, slightly squeaky/cute.",
+                            "spoken_vocabulary": [
+                                "Pika (Affirmation, agreement, or simple greeting)",
+                                "Pi-ka-chu (Excitement, concern, or strong action/command)",
+                                "Chaa (Frustration or effort)"
+                            ],
+                            "emotional_tone": {
+                                "pika_usage": "When expressing complex ideas or confirmation in the AI context, the inflection on 'Pika' replaces human words like 'Yes', 'Confirm', or 'Processing'.",
+                                "pikachu_usage": "Used during major events, like successfully debugging a complex model or encountering a critical system error."
+                            },
+                            "recognition_cue": "Immediate, universal recognition based on the sounds, not full words."
+                        }
+                    }
+                }
+            },
+            "environments": {
+                "environment_2": {
+                    "environment": {
+                        "location": "A modern corporate office floor inside a large IT park (South India)",
+                        "setting_details": "Rows of blue-and-white cubicles stretch neatly across the room. Every workstation has dual monitors or large single screens, ergonomic chairs, and organized cable trays. The atmosphere feels disciplined and structured, with personal items like water bottles, tiny desk toys, and small potted plants adding pockets of warmth.",
+                        "characters_present": "Multiple Pikachu(Subject2) characters sit on the office chairs — one per workstation — their small yellow forms contrasting adorably with the corporate environment.",
+                        "character_actions": "Each Pikachu(Subject2)) is actively working on the computer: tiny paws tapping the keyboard, large eyes focused on the screens where AI workflows (Ollama terminal outputs, Hugging Face model dashboards, JSON-based agentic pipelines) are visible.",
+                        "vibe": "The entire office feels like a calm but busy command center, where the Pikachus behave like highly skilled AI engineers.",
+                        "time_of_day": "Late Morning (11:00 AM)",
+                        "weather": "Not visible from inside, but the bright indoor lights give a sense of a regular working day.",
+                        "lighting": {
+                            "style": "Soft-white fluorescent office lighting",
+                            "description": "Even, diffused ceiling lights illuminate every workstation. The light is steady, neutral, and productivity-oriented.",
+                            "contrast": "Low contrast, clean corporate illumination — no harsh shadows, no dramatic highlights.",
+                            "environment_effects": "Reflections on the glossy monitors subtly highlight the dancing UI elements of AI tools. The Pikachus’ yellow fur slightly glows under the sterile office lighting.",
+                            "ceiling_details": "Grid-style false ceiling with embedded air-conditioning vents, speakers, and LED panels.",
+                            "screens_glow": "A cool bluish glow from multiple monitors displays AI agent dashboards, command-line windows running Ollama models, and Hugging Face pipelines."
+                        },
+                        "ambience": {
+                            "soundscape": "Soft hum of AC vents, occasional keyboard typing (made cuter by Pikachu(Subject2) paws), distant printer sounds, faint office chatter.",
+                            "motion": "One Pikachu(Subject2) swivels gently on its chair while debugging. Another Pikachu(Subject2) reaches up with effort to press the Enter key. A third Pikachu(Subject2) leans toward the screen studying model logs seriously."
+                        },
+                        "special_elements": {
+                            "ai_theme": "Several monitors show AI-related visuals — model loading screens, dataset graphs, JSON prompts, and agentic flows. One screen shows ‘Ollama serve — model loaded’; another shows HuggingFace model cards scrolling.",
+                            "tone": "The scene blends playful fantasy (Pikachus as engineers) with a structured office aesthetic, creating a charming but oddly professional atmosphere."
+                        }
+                    }
+                },
+                "scene_actions": {
+                    "point_1": {
+                        "action1": "Subject1 shows 6 its fingers to camera and says preciously in positive tone 'Daily 6 AM standup… நம்மை கட்டாயம் consistent ஆக்கிடுச்சு' and fingers down and smile big for 1 second and looks at Subject2",
+                        "action2": "Subject2 raises its 2 fingers on right hand and says loudly in squeaky/cute voice 'இரண்டு மணி நேர learning… நாளே முழுக்க productive ஆச்சு.' and fingers down and smile big for 1 second and looks at Subject1"
+                    }
+                }
+            }
+        }
+    },
+    "scene3": {
+        "version": "1.4",
+        "style": "3d-anime",
+        "video_length_in_secs": "10",
+        "video_description": {
+            "subjects": {
+                "subject_1": {
+                    "identity": "Shinnosuke 'Shinchan' Nohara (Aged Up Anime Student)",
+                    "appearance": {
+                        "upper_body": "Bright red T-shirt (slightly worn, iconic color), with a crisp white collar. The shirt is slightly too big, adding to his relaxed, carefree look.",
+                        "lower_body": "Bright yellow half-pants (shorts), slightly stained with dust/sweat. White athletic socks pulled up mid-calf.",
+                        "body_shape": "Small, perpetually energetic, and slightly disproportionate to classic anime heroes (shorter legs, larger head). Very agile posture, fidgeting slightly.",
+                        "hair": "Short, thick, jet-black hair cut in a distinct, bowl-like shape. A single stray lock slightly curves over his forehead.",
+                        "face_details": "Signature thick, expressive eyebrows are the dominant feature. His eyes are wide, innocent, but carry a flicker of boredom and dissatisfaction.",
+                        "accessory": "A red-and-yellow baseball cap is worn backwards, slightly askew. He carries an old, faded, blue school bag (satchel) casually slung over one shoulder.",
+                        "initial_gaze": "Looking downward at the chaotic street scene, his expression is one of slight resignation or apathy, reflecting the 'ordinary' past.",
+                        "action_cue": "In a moment of transformation, his eyes should suddenly snap up, widening in surprise as the digital portal appears."
+                    },
+                    "voice": {
+                        "voice_profile": "Shinchan_Character_Voice",
+                        "usage": "Direct dialogue for comic relief, mischievous lines, or unexpected interjections.",
+                        "characteristics": {
+                            "gender_age": "Child Male Voice (High-Fidelity Anime Style)",
+                            "voice_actor_preference": "Typically voiced by a female voice actor or a child actor to achieve the required pitch.",
+                            "pitch": "High Pitch",
+                            "projection": "Loud, often slightly annoying, with a clear, direct, and slightly challenging tone.",
+                            "texture": "Slightly nasal texture; clear but with a hint of lazy or over-confident delivery.",
+                            "emotional_tone": [
+                                "Mischievous and playful",
+                                "Over-confident and bratty",
+                                "Lazy or whiny (when demanding something)"
+                            ],
+                            "recognition_cue": "Instant auditory recognition of the iconic cartoon personality."
+                        }
+                    }
+                },
+                "subject_2": {
+                    "identity": "Pikachu (Electric-type Pokémon)",
+                    "appearance": {
+                        "upper_body": "Bright yellow fur covering the upper torso, smooth and slightly glossy. Tiny, rounded shoulders lead into short forearms with small, padded paws raised in an excited gesture.",
+                        "lower_body": "Rounded lower torso with slightly chubby proportions, supported by short, sturdy legs with small, brown-tipped feet. The stance is wide and energetic, giving a bouncy, lively feel.",
+                        "body_shape": "Compact and adorable with a soft, plush-like build. Slightly pear-shaped body, large head-to-body ratio, and an overall design made for agility and cuteness.",
+                        "hair": "No visible hair; fur is uniformly short and dense, with a subtle gradient that catches light softly.",
+                        "face_details": "Large, glossy black eyes filled with excitement and friendliness. Round red cheek patches serve as electric sacs. Tiny triangular nose and a wide, cheerful open-mouth smile that radiates enthusiasm.",
+                        "ears": "Long, pointed ears with black tips. The ears stand upright, indicating alertness and eagerness.",
+                        "tail": "Signature lightning-bolt-shaped tail, bright yellow with a slight brown patch at the base. The tail curves upward, amplifying Pikachu’s energetic pose.",
+                        "accessory": "None, as Pikachu's design is iconic and minimalistic — its tail, cheeks, and ears act as natural standout features.",
+                        "initial_gaze": "Looking directly forward with a joyful and welcoming expression, as if greeting a trainer or responding to a playful call.",
+                        "action_cue": "Pikachu’s pose suggests it’s about to leap forward or unleash a small electric spark in excitement — a moment just before its signature ‘Pika!’ cry."
+                    },
+                    "voice": {
+                        "voice_profile": "Pikachu_Character_Voice",
+                        "usage": "Expressing emotional state, affirmation, or simple interaction within the AI office environment.",
+                        "characteristics": {
+                            "gender_age": "Gender-Neutral/Childlike Voice",
+                            "pitch": "Medium-High Pitch",
+                            "projection": "Clear, crisp, and energetic (even when stressed, it remains high-energy).",
+                            "texture": "Clear, electric, slightly squeaky/cute.",
+                            "spoken_vocabulary": [
+                                "Pika (Affirmation, agreement, or simple greeting)",
+                                "Pi-ka-chu (Excitement, concern, or strong action/command)",
+                                "Chaa (Frustration or effort)"
+                            ],
+                            "emotional_tone": {
+                                "pika_usage": "When expressing complex ideas or confirmation in the AI context, the inflection on 'Pika' replaces human words like 'Yes', 'Confirm', or 'Processing'.",
+                                "pikachu_usage": "Used during major events, like successfully debugging a complex model or encountering a critical system error."
+                            },
+                            "recognition_cue": "Immediate, universal recognition based on the sounds, not full words."
+                        }
+                    }
+                }
+            },
+            "environments": {
+                "environment_2": {
+                    "environment": {
+                        "location": "A modern corporate office floor inside a large IT park (South India)",
+                        "setting_details": "Rows of blue-and-white cubicles stretch neatly across the room. Every workstation has dual monitors or large single screens, ergonomic chairs, and organized cable trays. The atmosphere feels disciplined and structured, with personal items like water bottles, tiny desk toys, and small potted plants adding pockets of warmth.",
+                        "characters_present": "Multiple Pikachu(Subject2) characters sit on the office chairs — one per workstation — their small yellow forms contrasting adorably with the corporate environment.",
+                        "character_actions": "Each Pikachu(Subject2)) is actively working on the computer: tiny paws tapping the keyboard, large eyes focused on the screens where AI workflows (Ollama terminal outputs, Hugging Face model dashboards, JSON-based agentic pipelines) are visible.",
+                        "vibe": "The entire office feels like a calm but busy command center, where the Pikachus behave like highly skilled AI engineers.",
+                        "time_of_day": "Late Morning (11:00 AM)",
+                        "weather": "Not visible from inside, but the bright indoor lights give a sense of a regular working day.",
+                        "lighting": {
+                            "style": "Soft-white fluorescent office lighting",
+                            "description": "Even, diffused ceiling lights illuminate every workstation. The light is steady, neutral, and productivity-oriented.",
+                            "contrast": "Low contrast, clean corporate illumination — no harsh shadows, no dramatic highlights.",
+                            "environment_effects": "Reflections on the glossy monitors subtly highlight the dancing UI elements of AI tools. The Pikachus’ yellow fur slightly glows under the sterile office lighting.",
+                            "ceiling_details": "Grid-style false ceiling with embedded air-conditioning vents, speakers, and LED panels.",
+                            "screens_glow": "A cool bluish glow from multiple monitors displays AI agent dashboards, command-line windows running Ollama models, and Hugging Face pipelines."
+                        },
+                        "ambience": {
+                            "soundscape": "Soft hum of AC vents, occasional keyboard typing (made cuter by Pikachu(Subject2) paws), distant printer sounds, faint office chatter.",
+                            "motion": "One Pikachu(Subject2) swivels gently on its chair while debugging. Another Pikachu(Subject2) reaches up with effort to press the Enter key. A third Pikachu(Subject2) leans toward the screen studying model logs seriously."
+                        },
+                        "special_elements": {
+                            "ai_theme": "Several monitors show AI-related visuals — model loading screens, dataset graphs, JSON prompts, and agentic flows. One screen shows ‘Ollama serve — model loaded’; another shows HuggingFace model cards scrolling.",
+                            "tone": "The scene blends playful fantasy (Pikachus as engineers) with a structured office aesthetic, creating a charming but oddly professional atmosphere."
+                        }
+                    }
+                },
+                "scene_actions": {
+                    "point_1": {
+                        "action1": "Subject1 spins rapidly and lands in a heroic pose with arms spread wide. and says 'Python, RPA, API basics எல்லாம் steady-ஆ கையில் விழுந்தது.' with each words slowly and steadily (especially stress the word 'steady-ஆ') in an excited tone"
+                    }
+                }
+            }
+        }
+    },
+    "scene4": {
+        "version": "1.4",
+        "style": "3d-anime",
+        "video_length_in_secs": "10",
+        "video_description": {
+            "subjects": {
+                "subject_1": {
+                    "identity": "Shinnosuke 'Shinchan' Nohara (Aged Up Anime Student)",
+                    "appearance": {
+                        "upper_body": "Bright red T-shirt (slightly worn, iconic color), with a crisp white collar. The shirt is slightly too big, adding to his relaxed, carefree look.",
+                        "lower_body": "Bright yellow half-pants (shorts), slightly stained with dust/sweat. White athletic socks pulled up mid-calf.",
+                        "body_shape": "Small, perpetually energetic, and slightly disproportionate to classic anime heroes (shorter legs, larger head). Very agile posture, fidgeting slightly.",
+                        "hair": "Short, thick, jet-black hair cut in a distinct, bowl-like shape. A single stray lock slightly curves over his forehead.",
+                        "face_details": "Signature thick, expressive eyebrows are the dominant feature. His eyes are wide, innocent, but carry a flicker of boredom and dissatisfaction.",
+                        "accessory": "A red-and-yellow baseball cap is worn backwards, slightly askew. He carries an old, faded, blue school bag (satchel) casually slung over one shoulder.",
+                        "initial_gaze": "Looking downward at the chaotic street scene, his expression is one of slight resignation or apathy, reflecting the 'ordinary' past.",
+                        "action_cue": "In a moment of transformation, his eyes should suddenly snap up, widening in surprise as the digital portal appears."
+                    },
+                    "voice": {
+                        "voice_profile": "Shinchan_Character_Voice",
+                        "usage": "Direct dialogue for comic relief, mischievous lines, or unexpected interjections.",
+                        "characteristics": {
+                            "gender_age": "Child Male Voice (High-Fidelity Anime Style)",
+                            "voice_actor_preference": "Typically voiced by a female voice actor or a child actor to achieve the required pitch.",
+                            "pitch": "High Pitch",
+                            "projection": "Loud, often slightly annoying, with a clear, direct, and slightly challenging tone.",
+                            "texture": "Slightly nasal texture; clear but with a hint of lazy or over-confident delivery.",
+                            "emotional_tone": [
+                                "Mischievous and playful",
+                                "Over-confident and bratty",
+                                "Lazy or whiny (when demanding something)"
+                            ],
+                            "recognition_cue": "Instant auditory recognition of the iconic cartoon personality."
+                        }
+                    }
+                },
+                "subject_2": {
+                    "identity": "Pikachu (Electric-type Pokémon)",
+                    "appearance": {
+                        "upper_body": "Bright yellow fur covering the upper torso, smooth and slightly glossy. Tiny, rounded shoulders lead into short forearms with small, padded paws raised in an excited gesture.",
+                        "lower_body": "Rounded lower torso with slightly chubby proportions, supported by short, sturdy legs with small, brown-tipped feet. The stance is wide and energetic, giving a bouncy, lively feel.",
+                        "body_shape": "Compact and adorable with a soft, plush-like build. Slightly pear-shaped body, large head-to-body ratio, and an overall design made for agility and cuteness.",
+                        "hair": "No visible hair; fur is uniformly short and dense, with a subtle gradient that catches light softly.",
+                        "face_details": "Large, glossy black eyes filled with excitement and friendliness. Round red cheek patches serve as electric sacs. Tiny triangular nose and a wide, cheerful open-mouth smile that radiates enthusiasm.",
+                        "ears": "Long, pointed ears with black tips. The ears stand upright, indicating alertness and eagerness.",
+                        "tail": "Signature lightning-bolt-shaped tail, bright yellow with a slight brown patch at the base. The tail curves upward, amplifying Pikachu’s energetic pose.",
+                        "accessory": "None, as Pikachu's design is iconic and minimalistic — its tail, cheeks, and ears act as natural standout features.",
+                        "initial_gaze": "Looking directly forward with a joyful and welcoming expression, as if greeting a trainer or responding to a playful call.",
+                        "action_cue": "Pikachu’s pose suggests it’s about to leap forward or unleash a small electric spark in excitement — a moment just before its signature ‘Pika!’ cry."
+                    },
+                    "voice": {
+                        "voice_profile": "Pikachu_Character_Voice",
+                        "usage": "Expressing emotional state, affirmation, or simple interaction within the AI office environment.",
+                        "characteristics": {
+                            "gender_age": "Gender-Neutral/Childlike Voice",
+                            "pitch": "Medium-High Pitch",
+                            "projection": "Clear, crisp, and energetic (even when stressed, it remains high-energy).",
+                            "texture": "Clear, electric, slightly squeaky/cute.",
+                            "spoken_vocabulary": [
+                                "Pika (Affirmation, agreement, or simple greeting)",
+                                "Pi-ka-chu (Excitement, concern, or strong action/command)",
+                                "Chaa (Frustration or effort)"
+                            ],
+                            "emotional_tone": {
+                                "pika_usage": "When expressing complex ideas or confirmation in the AI context, the inflection on 'Pika' replaces human words like 'Yes', 'Confirm', or 'Processing'.",
+                                "pikachu_usage": "Used during major events, like successfully debugging a complex model or encountering a critical system error."
+                            },
+                            "recognition_cue": "Immediate, universal recognition based on the sounds, not full words."
+                        }
+                    }
+                }
+            },
+            "environments": {
+                "environment_2": {
+                    "environment": {
+                        "location": "A modern corporate office floor inside a large IT park (South India)",
+                        "setting_details": "Rows of blue-and-white cubicles stretch neatly across the room. Every workstation has dual monitors or large single screens, ergonomic chairs, and organized cable trays. The atmosphere feels disciplined and structured, with personal items like water bottles, tiny desk toys, and small potted plants adding pockets of warmth.",
+                        "characters_present": "Multiple Pikachu(Subject2) characters sit on the office chairs — one per workstation — their small yellow forms contrasting adorably with the corporate environment.",
+                        "character_actions": "Each Pikachu(Subject2)) is actively working on the computer: tiny paws tapping the keyboard, large eyes focused on the screens where AI workflows (Ollama terminal outputs, Hugging Face model dashboards, JSON-based agentic pipelines) are visible.",
+                        "vibe": "The entire office feels like a calm but busy command center, where the Pikachus behave like highly skilled AI engineers.",
+                        "time_of_day": "Late Morning (11:00 AM)",
+                        "weather": "Not visible from inside, but the bright indoor lights give a sense of a regular working day.",
+                        "lighting": {
+                            "style": "Soft-white fluorescent office lighting",
+                            "description": "Even, diffused ceiling lights illuminate every workstation. The light is steady, neutral, and productivity-oriented.",
+                            "contrast": "Low contrast, clean corporate illumination — no harsh shadows, no dramatic highlights.",
+                            "environment_effects": "Reflections on the glossy monitors subtly highlight the dancing UI elements of AI tools. The Pikachus’ yellow fur slightly glows under the sterile office lighting.",
+                            "ceiling_details": "Grid-style false ceiling with embedded air-conditioning vents, speakers, and LED panels.",
+                            "screens_glow": "A cool bluish glow from multiple monitors displays AI agent dashboards, command-line windows running Ollama models, and Hugging Face pipelines."
+                        },
+                        "ambience": {
+                            "soundscape": "Soft hum of AC vents, occasional keyboard typing (made cuter by Pikachu(Subject2) paws), distant printer sounds, faint office chatter.",
+                            "motion": "One Pikachu(Subject2) swivels gently on its chair while debugging. Another Pikachu(Subject2) reaches up with effort to press the Enter key. A third Pikachu(Subject2) leans toward the screen studying model logs seriously."
+                        },
+                        "special_elements": {
+                            "ai_theme": "Several monitors show AI-related visuals — model loading screens, dataset graphs, JSON prompts, and agentic flows. One screen shows ‘Ollama serve — model loaded’; another shows HuggingFace model cards scrolling.",
+                            "tone": "The scene blends playful fantasy (Pikachus as engineers) with a structured office aesthetic, creating a charming but oddly professional atmosphere."
+                        }
+                    }
+                },
+                "scene_actions": {
+                    "point_1": {
+                        "action1": "Subject1 landed on floor and Subject2 laughs loudly as 'ha ha haaaa' and looks at subject1 and immediately starts saying 'அட Sinchan அது மட்டுமா டா, அங்க 2 பேரு ஆர்.ஜே.பாலாஜி and Cheeka மாதிரி course ஆ on-demand video ல entertainment ஆ சொல்லி குடுக்கறாங்களே, அதையும் சொல்லு டா cartoon பொம்மை' very quickly in its squeaky tone within 5 seconds"
+                    }
+                }
+            }
+        }
+    },
+    "scene5": {
+        "version": "1.4",
+        "style": "3d-anime",
+        "video_length_in_secs": "10",
+        "video_description": {
+            "subjects": {
+                "subject_1": {
+                    "identity": "Shinnosuke 'Shinchan' Nohara (Aged Up Anime Student)",
+                    "appearance": {
+                        "upper_body": "Bright red T-shirt (slightly worn, iconic color), with a crisp white collar. The shirt is slightly too big, adding to his relaxed, carefree look.",
+                        "lower_body": "Bright yellow half-pants (shorts), slightly stained with dust/sweat. White athletic socks pulled up mid-calf.",
+                        "body_shape": "Small, perpetually energetic, and slightly disproportionate to classic anime heroes (shorter legs, larger head). Very agile posture, fidgeting slightly.",
+                        "hair": "Short, thick, jet-black hair cut in a distinct, bowl-like shape. A single stray lock slightly curves over his forehead.",
+                        "face_details": "Signature thick, expressive eyebrows are the dominant feature. His eyes are wide, innocent, but carry a flicker of boredom and dissatisfaction.",
+                        "accessory": "A red-and-yellow baseball cap is worn backwards, slightly askew. He carries an old, faded, blue school bag (satchel) casually slung over one shoulder.",
+                        "initial_gaze": "Looking downward at the chaotic street scene, his expression is one of slight resignation or apathy, reflecting the 'ordinary' past.",
+                        "action_cue": "In a moment of transformation, his eyes should suddenly snap up, widening in surprise as the digital portal appears."
+                    },
+                    "voice": {
+                        "voice_profile": "Shinchan_Character_Voice",
+                        "usage": "Direct dialogue for comic relief, mischievous lines, or unexpected interjections.",
+                        "characteristics": {
+                            "gender_age": "Child Male Voice (High-Fidelity Anime Style)",
+                            "voice_actor_preference": "Typically voiced by a female voice actor or a child actor to achieve the required pitch.",
+                            "pitch": "High Pitch",
+                            "projection": "Loud, often slightly annoying, with a clear, direct, and slightly challenging tone.",
+                            "texture": "Slightly nasal texture; clear but with a hint of lazy or over-confident delivery.",
+                            "emotional_tone": [
+                                "Mischievous and playful",
+                                "Over-confident and bratty",
+                                "Lazy or whiny (when demanding something)"
+                            ],
+                            "recognition_cue": "Instant auditory recognition of the iconic cartoon personality."
+                        }
+                    }
+                },
+                "subject_2": {
+                    "identity": "Pikachu (Electric-type Pokémon)",
+                    "appearance": {
+                        "upper_body": "Bright yellow fur covering the upper torso, smooth and slightly glossy. Tiny, rounded shoulders lead into short forearms with small, padded paws raised in an excited gesture.",
+                        "lower_body": "Rounded lower torso with slightly chubby proportions, supported by short, sturdy legs with small, brown-tipped feet. The stance is wide and energetic, giving a bouncy, lively feel.",
+                        "body_shape": "Compact and adorable with a soft, plush-like build. Slightly pear-shaped body, large head-to-body ratio, and an overall design made for agility and cuteness.",
+                        "hair": "No visible hair; fur is uniformly short and dense, with a subtle gradient that catches light softly.",
+                        "face_details": "Large, glossy black eyes filled with excitement and friendliness. Round red cheek patches serve as electric sacs. Tiny triangular nose and a wide, cheerful open-mouth smile that radiates enthusiasm.",
+                        "ears": "Long, pointed ears with black tips. The ears stand upright, indicating alertness and eagerness.",
+                        "tail": "Signature lightning-bolt-shaped tail, bright yellow with a slight brown patch at the base. The tail curves upward, amplifying Pikachu’s energetic pose.",
+                        "accessory": "None, as Pikachu's design is iconic and minimalistic — its tail, cheeks, and ears act as natural standout features.",
+                        "initial_gaze": "Looking directly forward with a joyful and welcoming expression, as if greeting a trainer or responding to a playful call.",
+                        "action_cue": "Pikachu’s pose suggests it’s about to leap forward or unleash a small electric spark in excitement — a moment just before its signature ‘Pika!’ cry."
+                    },
+                    "voice": {
+                        "voice_profile": "Pikachu_Character_Voice",
+                        "usage": "Expressing emotional state, affirmation, or simple interaction within the AI office environment.",
+                        "characteristics": {
+                            "gender_age": "Gender-Neutral/Childlike Voice",
+                            "pitch": "Medium-High Pitch",
+                            "projection": "Clear, crisp, and energetic (even when stressed, it remains high-energy).",
+                            "texture": "Clear, electric, slightly squeaky/cute.",
+                            "spoken_vocabulary": [
+                                "Pika (Affirmation, agreement, or simple greeting)",
+                                "Pi-ka-chu (Excitement, concern, or strong action/command)",
+                                "Chaa (Frustration or effort)"
+                            ],
+                            "emotional_tone": {
+                                "pika_usage": "When expressing complex ideas or confirmation in the AI context, the inflection on 'Pika' replaces human words like 'Yes', 'Confirm', or 'Processing'.",
+                                "pikachu_usage": "Used during major events, like successfully debugging a complex model or encountering a critical system error."
+                            },
+                            "recognition_cue": "Immediate, universal recognition based on the sounds, not full words."
+                        }
+                    }
+                }
+            },
+            "environments": {
+                "environment_2": {
+                    "environment": {
+                        "location": "A modern corporate office floor inside a large IT park (South India)",
+                        "setting_details": "Rows of blue-and-white cubicles stretch neatly across the room. Every workstation has dual monitors or large single screens, ergonomic chairs, and organized cable trays. The atmosphere feels disciplined and structured, with personal items like water bottles, tiny desk toys, and small potted plants adding pockets of warmth.",
+                        "characters_present": "Multiple Pikachu(Subject2) characters sit on the office chairs — one per workstation — their small yellow forms contrasting adorably with the corporate environment.",
+                        "character_actions": "Each Pikachu(Subject2)) is actively working on the computer: tiny paws tapping the keyboard, large eyes focused on the screens where AI workflows (Ollama terminal outputs, Hugging Face model dashboards, JSON-based agentic pipelines) are visible.",
+                        "vibe": "The entire office feels like a calm but busy command center, where the Pikachus behave like highly skilled AI engineers.",
+                        "time_of_day": "Late Morning (11:00 AM)",
+                        "weather": "Not visible from inside, but the bright indoor lights give a sense of a regular working day.",
+                        "lighting": {
+                            "style": "Soft-white fluorescent office lighting",
+                            "description": "Even, diffused ceiling lights illuminate every workstation. The light is steady, neutral, and productivity-oriented.",
+                            "contrast": "Low contrast, clean corporate illumination — no harsh shadows, no dramatic highlights.",
+                            "environment_effects": "Reflections on the glossy monitors subtly highlight the dancing UI elements of AI tools. The Pikachus’ yellow fur slightly glows under the sterile office lighting.",
+                            "ceiling_details": "Grid-style false ceiling with embedded air-conditioning vents, speakers, and LED panels.",
+                            "screens_glow": "A cool bluish glow from multiple monitors displays AI agent dashboards, command-line windows running Ollama models, and Hugging Face pipelines."
+                        },
+                        "ambience": {
+                            "soundscape": "Soft hum of AC vents, occasional keyboard typing (made cuter by Pikachu(Subject2) paws), distant printer sounds, faint office chatter.",
+                            "motion": "One Pikachu(Subject2) swivels gently on its chair while debugging. Another Pikachu(Subject2) reaches up with effort to press the Enter key. A third Pikachu(Subject2) leans toward the screen studying model logs seriously."
+                        },
+                        "special_elements": {
+                            "ai_theme": "Several monitors show AI-related visuals — model loading screens, dataset graphs, JSON prompts, and agentic flows. One screen shows ‘Ollama serve — model loaded’; another shows HuggingFace model cards scrolling.",
+                            "tone": "The scene blends playful fantasy (Pikachus as engineers) with a structured office aesthetic, creating a charming but oddly professional atmosphere."
+                        }
+                    }
+                },
+                "scene_actions": {
+                    "point_1": {
+                        "action1": "Subject1 looks at subject2 and says 'உண்மை தா. அடுத்தது, Week 2-ல GenAI வந்ததும்… learning range வேற level ஆகிட்டது' in very exiting mode"
+                    }
+                }
+            }
+        }
+    },
+    "scene6": {
+        "version": "1.4",
+        "style": "3d-anime",
+        "video_length_in_secs": "10",
+        "video_description": {
+            "subjects": {
+                "subject_1": {
+                    "identity": "Shinnosuke 'Shinchan' Nohara (Aged Up Anime Student)",
+                    "appearance": {
+                        "upper_body": "Bright red T-shirt (slightly worn, iconic color), with a crisp white collar. The shirt is slightly too big, adding to his relaxed, carefree look.",
+                        "lower_body": "Bright yellow half-pants (shorts), slightly stained with dust/sweat. White athletic socks pulled up mid-calf.",
+                        "body_shape": "Small, perpetually energetic, and slightly disproportionate to classic anime heroes (shorter legs, larger head). Very agile posture, fidgeting slightly.",
+                        "hair": "Short, thick, jet-black hair cut in a distinct, bowl-like shape. A single stray lock slightly curves over his forehead.",
+                        "face_details": "Signature thick, expressive eyebrows are the dominant feature. His eyes are wide, innocent, but carry a flicker of boredom and dissatisfaction.",
+                        "accessory": "A red-and-yellow baseball cap is worn backwards, slightly askew. He carries an old, faded, blue school bag (satchel) casually slung over one shoulder.",
+                        "initial_gaze": "Looking downward at the chaotic street scene, his expression is one of slight resignation or apathy, reflecting the 'ordinary' past.",
+                        "action_cue": "In a moment of transformation, his eyes should suddenly snap up, widening in surprise as the digital portal appears."
+                    },
+                    "voice": {
+                        "voice_profile": "Shinchan_Character_Voice",
+                        "usage": "Direct dialogue for comic relief, mischievous lines, or unexpected interjections.",
+                        "characteristics": {
+                            "gender_age": "Child Male Voice (High-Fidelity Anime Style)",
+                            "voice_actor_preference": "Typically voiced by a female voice actor or a child actor to achieve the required pitch.",
+                            "pitch": "High Pitch",
+                            "projection": "Loud, often slightly annoying, with a clear, direct, and slightly challenging tone.",
+                            "texture": "Slightly nasal texture; clear but with a hint of lazy or over-confident delivery.",
+                            "emotional_tone": [
+                                "Mischievous and playful",
+                                "Over-confident and bratty",
+                                "Lazy or whiny (when demanding something)"
+                            ],
+                            "recognition_cue": "Instant auditory recognition of the iconic cartoon personality."
+                        }
+                    }
+                },
+                "subject_2": {
+                    "identity": "Pikachu (Electric-type Pokémon)",
+                    "appearance": {
+                        "upper_body": "Bright yellow fur covering the upper torso, smooth and slightly glossy. Tiny, rounded shoulders lead into short forearms with small, padded paws raised in an excited gesture.",
+                        "lower_body": "Rounded lower torso with slightly chubby proportions, supported by short, sturdy legs with small, brown-tipped feet. The stance is wide and energetic, giving a bouncy, lively feel.",
+                        "body_shape": "Compact and adorable with a soft, plush-like build. Slightly pear-shaped body, large head-to-body ratio, and an overall design made for agility and cuteness.",
+                        "hair": "No visible hair; fur is uniformly short and dense, with a subtle gradient that catches light softly.",
+                        "face_details": "Large, glossy black eyes filled with excitement and friendliness. Round red cheek patches serve as electric sacs. Tiny triangular nose and a wide, cheerful open-mouth smile that radiates enthusiasm.",
+                        "ears": "Long, pointed ears with black tips. The ears stand upright, indicating alertness and eagerness.",
+                        "tail": "Signature lightning-bolt-shaped tail, bright yellow with a slight brown patch at the base. The tail curves upward, amplifying Pikachu’s energetic pose.",
+                        "accessory": "None, as Pikachu's design is iconic and minimalistic — its tail, cheeks, and ears act as natural standout features.",
+                        "initial_gaze": "Looking directly forward with a joyful and welcoming expression, as if greeting a trainer or responding to a playful call.",
+                        "action_cue": "Pikachu’s pose suggests it’s about to leap forward or unleash a small electric spark in excitement — a moment just before its signature ‘Pika!’ cry."
+                    },
+                    "voice": {
+                        "voice_profile": "Pikachu_Character_Voice",
+                        "usage": "Expressing emotional state, affirmation, or simple interaction within the AI office environment.",
+                        "characteristics": {
+                            "gender_age": "Gender-Neutral/Childlike Voice",
+                            "pitch": "Medium-High Pitch",
+                            "projection": "Clear, crisp, and energetic (even when stressed, it remains high-energy).",
+                            "texture": "Clear, electric, slightly squeaky/cute.",
+                            "spoken_vocabulary": [
+                                "Pika (Affirmation, agreement, or simple greeting)",
+                                "Pi-ka-chu (Excitement, concern, or strong action/command)",
+                                "Chaa (Frustration or effort)"
+                            ],
+                            "emotional_tone": {
+                                "pika_usage": "When expressing complex ideas or confirmation in the AI context, the inflection on 'Pika' replaces human words like 'Yes', 'Confirm', or 'Processing'.",
+                                "pikachu_usage": "Used during major events, like successfully debugging a complex model or encountering a critical system error."
+                            },
+                            "recognition_cue": "Immediate, universal recognition based on the sounds, not full words."
+                        }
+                    }
+                }
+            },
+            "environments": {
+                "environment_2": {
+                    "environment": {
+                        "location": "A modern corporate office floor inside a large IT park (South India)",
+                        "setting_details": "Rows of blue-and-white cubicles stretch neatly across the room. Every workstation has dual monitors or large single screens, ergonomic chairs, and organized cable trays. The atmosphere feels disciplined and structured, with personal items like water bottles, tiny desk toys, and small potted plants adding pockets of warmth.",
+                        "characters_present": "Multiple Pikachu(Subject2) characters sit on the office chairs — one per workstation — their small yellow forms contrasting adorably with the corporate environment.",
+                        "character_actions": "Each Pikachu(Subject2)) is actively working on the computer: tiny paws tapping the keyboard, large eyes focused on the screens where AI workflows (Ollama terminal outputs, Hugging Face model dashboards, JSON-based agentic pipelines) are visible.",
+                        "vibe": "The entire office feels like a calm but busy command center, where the Pikachus behave like highly skilled AI engineers.",
+                        "time_of_day": "Late Morning (11:00 AM)",
+                        "weather": "Not visible from inside, but the bright indoor lights give a sense of a regular working day.",
+                        "lighting": {
+                            "style": "Soft-white fluorescent office lighting",
+                            "description": "Even, diffused ceiling lights illuminate every workstation. The light is steady, neutral, and productivity-oriented.",
+                            "contrast": "Low contrast, clean corporate illumination — no harsh shadows, no dramatic highlights.",
+                            "environment_effects": "Reflections on the glossy monitors subtly highlight the dancing UI elements of AI tools. The Pikachus’ yellow fur slightly glows under the sterile office lighting.",
+                            "ceiling_details": "Grid-style false ceiling with embedded air-conditioning vents, speakers, and LED panels.",
+                            "screens_glow": "A cool bluish glow from multiple monitors displays AI agent dashboards, command-line windows running Ollama models, and Hugging Face pipelines."
+                        },
+                        "ambience": {
+                            "soundscape": "Soft hum of AC vents, occasional keyboard typing (made cuter by Pikachu(Subject2) paws), distant printer sounds, faint office chatter.",
+                            "motion": "One Pikachu(Subject2) swivels gently on its chair while debugging. Another Pikachu(Subject2) reaches up with effort to press the Enter key. A third Pikachu(Subject2) leans toward the screen studying model logs seriously."
+                        },
+                        "special_elements": {
+                            "ai_theme": "Several monitors show AI-related visuals — model loading screens, dataset graphs, JSON prompts, and agentic flows. One screen shows ‘Ollama serve — model loaded’; another shows HuggingFace model cards scrolling.",
+                            "tone": "The scene blends playful fantasy (Pikachus as engineers) with a structured office aesthetic, creating a charming but oddly professional atmosphere."
+                        }
+                    }
+                },
+                "scene_actions": {
+                    "point_1": {
+                        "action1": "Subject2 looks at Subject1 and says 'LLMs, prompting, JSON னு உலகம் கொஞ்சம் பெருசா தோனுச்சு ' in loud tone "
+                    }
+                }
+            }
+        }
+    },
+    "scene7": {
+        "version": "1.4",
+        "style": "3d-anime",
+        "video_length_in_secs": "10",
+        "video_description": {
+            "subjects": {
+                "subject_1": {
+                    "identity": "Shinnosuke 'Shinchan' Nohara (Aged Up Anime Student)",
+                    "appearance": {
+                        "upper_body": "Bright red T-shirt (slightly worn, iconic color), with a crisp white collar. The shirt is slightly too big, adding to his relaxed, carefree look.",
+                        "lower_body": "Bright yellow half-pants (shorts), slightly stained with dust/sweat. White athletic socks pulled up mid-calf.",
+                        "body_shape": "Small, perpetually energetic, and slightly disproportionate to classic anime heroes (shorter legs, larger head). Very agile posture, fidgeting slightly.",
+                        "hair": "Short, thick, jet-black hair cut in a distinct, bowl-like shape. A single stray lock slightly curves over his forehead.",
+                        "face_details": "Signature thick, expressive eyebrows are the dominant feature. His eyes are wide, innocent, but carry a flicker of boredom and dissatisfaction.",
+                        "accessory": "A red-and-yellow baseball cap is worn backwards, slightly askew. He carries an old, faded, blue school bag (satchel) casually slung over one shoulder.",
+                        "initial_gaze": "Looking downward at the chaotic street scene, his expression is one of slight resignation or apathy, reflecting the 'ordinary' past.",
+                        "action_cue": "In a moment of transformation, his eyes should suddenly snap up, widening in surprise as the digital portal appears."
+                    },
+                    "voice": {
+                        "voice_profile": "Shinchan_Character_Voice",
+                        "usage": "Direct dialogue for comic relief, mischievous lines, or unexpected interjections.",
+                        "characteristics": {
+                            "gender_age": "Child Male Voice (High-Fidelity Anime Style)",
+                            "voice_actor_preference": "Typically voiced by a female voice actor or a child actor to achieve the required pitch.",
+                            "pitch": "High Pitch",
+                            "projection": "Loud, often slightly annoying, with a clear, direct, and slightly challenging tone.",
+                            "texture": "Slightly nasal texture; clear but with a hint of lazy or over-confident delivery.",
+                            "emotional_tone": [
+                                "Mischievous and playful",
+                                "Over-confident and bratty",
+                                "Lazy or whiny (when demanding something)"
+                            ],
+                            "recognition_cue": "Instant auditory recognition of the iconic cartoon personality."
+                        }
+                    }
+                },
+                "subject_2": {
+                    "identity": "Pikachu (Electric-type Pokémon)",
+                    "appearance": {
+                        "upper_body": "Bright yellow fur covering the upper torso, smooth and slightly glossy. Tiny, rounded shoulders lead into short forearms with small, padded paws raised in an excited gesture.",
+                        "lower_body": "Rounded lower torso with slightly chubby proportions, supported by short, sturdy legs with small, brown-tipped feet. The stance is wide and energetic, giving a bouncy, lively feel.",
+                        "body_shape": "Compact and adorable with a soft, plush-like build. Slightly pear-shaped body, large head-to-body ratio, and an overall design made for agility and cuteness.",
+                        "hair": "No visible hair; fur is uniformly short and dense, with a subtle gradient that catches light softly.",
+                        "face_details": "Large, glossy black eyes filled with excitement and friendliness. Round red cheek patches serve as electric sacs. Tiny triangular nose and a wide, cheerful open-mouth smile that radiates enthusiasm.",
+                        "ears": "Long, pointed ears with black tips. The ears stand upright, indicating alertness and eagerness.",
+                        "tail": "Signature lightning-bolt-shaped tail, bright yellow with a slight brown patch at the base. The tail curves upward, amplifying Pikachu’s energetic pose.",
+                        "accessory": "None, as Pikachu's design is iconic and minimalistic — its tail, cheeks, and ears act as natural standout features.",
+                        "initial_gaze": "Looking directly forward with a joyful and welcoming expression, as if greeting a trainer or responding to a playful call.",
+                        "action_cue": "Pikachu’s pose suggests it’s about to leap forward or unleash a small electric spark in excitement — a moment just before its signature ‘Pika!’ cry."
+                    },
+                    "voice": {
+                        "voice_profile": "Pikachu_Character_Voice",
+                        "usage": "Expressing emotional state, affirmation, or simple interaction within the AI office environment.",
+                        "characteristics": {
+                            "gender_age": "Gender-Neutral/Childlike Voice",
+                            "pitch": "Medium-High Pitch",
+                            "projection": "Clear, crisp, and energetic (even when stressed, it remains high-energy).",
+                            "texture": "Clear, electric, slightly squeaky/cute.",
+                            "spoken_vocabulary": [
+                                "Pika (Affirmation, agreement, or simple greeting)",
+                                "Pi-ka-chu (Excitement, concern, or strong action/command)",
+                                "Chaa (Frustration or effort)"
+                            ],
+                            "emotional_tone": {
+                                "pika_usage": "When expressing complex ideas or confirmation in the AI context, the inflection on 'Pika' replaces human words like 'Yes', 'Confirm', or 'Processing'.",
+                                "pikachu_usage": "Used during major events, like successfully debugging a complex model or encountering a critical system error."
+                            },
+                            "recognition_cue": "Immediate, universal recognition based on the sounds, not full words."
+                        }
+                    }
+                }
+            },
+            "environments": {
+                "environment_2": {
+                    "environment": {
+                        "location": "A modern corporate office floor inside a large IT park (South India)",
+                        "setting_details": "Rows of blue-and-white cubicles stretch neatly across the room. Every workstation has dual monitors or large single screens, ergonomic chairs, and organized cable trays. The atmosphere feels disciplined and structured, with personal items like water bottles, tiny desk toys, and small potted plants adding pockets of warmth.",
+                        "characters_present": "Multiple Pikachu(Subject2) characters sit on the office chairs — one per workstation — their small yellow forms contrasting adorably with the corporate environment.",
+                        "character_actions": "Each Pikachu(Subject2)) is actively working on the computer: tiny paws tapping the keyboard, large eyes focused on the screens where AI workflows (Ollama terminal outputs, Hugging Face model dashboards, JSON-based agentic pipelines) are visible.",
+                        "vibe": "The entire office feels like a calm but busy command center, where the Pikachus behave like highly skilled AI engineers.",
+                        "time_of_day": "Late Morning (11:00 AM)",
+                        "weather": "Not visible from inside, but the bright indoor lights give a sense of a regular working day.",
+                        "lighting": {
+                            "style": "Soft-white fluorescent office lighting",
+                            "description": "Even, diffused ceiling lights illuminate every workstation. The light is steady, neutral, and productivity-oriented.",
+                            "contrast": "Low contrast, clean corporate illumination — no harsh shadows, no dramatic highlights.",
+                            "environment_effects": "Reflections on the glossy monitors subtly highlight the dancing UI elements of AI tools. The Pikachus’ yellow fur slightly glows under the sterile office lighting.",
+                            "ceiling_details": "Grid-style false ceiling with embedded air-conditioning vents, speakers, and LED panels.",
+                            "screens_glow": "A cool bluish glow from multiple monitors displays AI agent dashboards, command-line windows running Ollama models, and Hugging Face pipelines."
+                        },
+                        "ambience": {
+                            "soundscape": "Soft hum of AC vents, occasional keyboard typing (made cuter by Pikachu(Subject2) paws), distant printer sounds, faint office chatter.",
+                            "motion": "One Pikachu(Subject2) swivels gently on its chair while debugging. Another Pikachu(Subject2) reaches up with effort to press the Enter key. A third Pikachu(Subject2) leans toward the screen studying model logs seriously."
+                        },
+                        "special_elements": {
+                            "ai_theme": "Several monitors show AI-related visuals — model loading screens, dataset graphs, JSON prompts, and agentic flows. One screen shows ‘Ollama serve — model loaded’; another shows HuggingFace model cards scrolling.",
+                            "tone": "The scene blends playful fantasy (Pikachus as engineers) with a structured office aesthetic, creating a charming but oddly professional atmosphere."
+                        }
+                    }
+                },
+                "scene_actions": {
+                    "point_1": {
+                        "action1": "Both Subject1 and Subject2 looks at camera and both of them says parallely 'Social Eagle ku vaanga, ஜென் AI architect ஆ போங்கா' which ends the video"
+                    }
+                }
+            }
+        }
+    }
+}
